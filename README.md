@@ -99,6 +99,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Papers
 
+#### All open access papers and preprints
+ * [Arxiv](http://www.arxiv.org/) - Arxiv
+
 #### Conference papers on the web
  * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
